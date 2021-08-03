@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 *[email](avinashkumarsinha007@gmail.com)<br/> *[LinkedIn](www.linkedin.com/in/avinash-kumar-sinha-90413318a)
 
 
-<img src="https://agileengine.com/wp-content/uploads/2018/02/mern.jpg" width="100%">
-<img src="https://www.pngfind.com/pngs/m/597-5977496_html5-logo-html-css-js-react-hd-png.png" heigth="10%" >
+<img src="https://agileengine.com/wp-content/uploads/2018/02/mern.jpg" height="220" width="100%">
+<img src="https://p92.com/binaries/content/gallery/p92website/technologies/htmlcssjs-details.png" marginLeft="50" heigth="100px" >
 
 
 <img alt="Stats (640)" src="https://github-readme-stats.vercel.app/api?username=avinashkumarsinha007&&show_icons=true&title_color=00F7CE&icon_color=FF0000&text_color=daf7dc&bg_color=151515">
