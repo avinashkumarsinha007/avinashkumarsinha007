@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 - 😄 Looking for an opportunity as a MERN Stack developer to learn new things and grow as a web developer.
 - ⚡ Tech stacks I know are React, Javascript, Material-UI, CSS, HTML, Express js, Node.js, MongoDB, and Data Structures and Algorithm.
 
+- 💬 My Blogs <br/>
+*[Medium](https://avinashkumarsinha007.medium.com/)
 - 📫 How to reach me <br/>
 *[email](avinashkumarsinha007@gmail.com)<br/> *[LinkedIn](www.linkedin.com/in/avinash-kumar-sinha-90413318a)
 
