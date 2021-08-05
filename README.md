@@ -29,7 +29,7 @@ Profiencies
 <p align="center">
 <img src="https://agileengine.com/wp-content/uploads/2018/02/mern.jpg" height="220" width="100%">
    </p> 
-   <p align="center">
+   <p >
 <img src="https://p92.com/binaries/content/gallery/p92website/technologies/htmlcssjs-details.png" marginLeft="50" heigth="100px" >
    </p> 
 
