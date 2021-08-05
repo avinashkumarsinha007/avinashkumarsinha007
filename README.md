@@ -23,9 +23,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me <br/>
 *[email](avinashkumarsinha007@gmail.com)<br/> *[LinkedIn](www.linkedin.com/in/avinash-kumar-sinha-90413318a)
 
- <h3 align="center">
-Profiencies 
-  </h3> 
+ 
 <p align="center">
 <img src="https://agileengine.com/wp-content/uploads/2018/02/mern.jpg" height="220" width="100%">
    </p> 
@@ -40,11 +38,11 @@ Profiencies
 
 <!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=avinashkumarsinha007&theme=highcontrast&fire=f7a305&ring=00F7CE&currStreakLabel=FF0000)
 
- 
+<!--   -->
  
  <p align="center">
   <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
   </p>
- -->
+ 
  
 
