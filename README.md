@@ -1,8 +1,6 @@
 ### Hi there, I am Avinash Kumar Sinha 👋
 
-
-- 🌱 I’m currently learning Data Structures and Algorithm at Masai School.
-- 😄 Looking for an opportunity as a MERN Stack developer to learn new things and grow as a web developer.
+- 😄 Looking for an opportunity as a MERN Stack developer to work in a company at new things and grow as a web developer.
 - ⚡ Tech stacks I know are React, Javascript, Material-UI, CSS, HTML, Express js, Node.js, MongoDB, and Data Structures and Algorithm.
 
 - 💬 My Blogs <br/>
