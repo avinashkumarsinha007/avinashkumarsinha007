@@ -1,7 +1,7 @@
 ### Hi there, I am Avinash Kumar Sinha 👋
 
-- 😄 Looking for an opportunity as a MERN Stack developer to work in a company where I can work on exciting technologies and also grow as a web developer.
-- ⚡ Tech stacks I know are React, Javascript, Material-UI, CSS, HTML, Express js, Node.js, MongoDB, and Data Structures and Algorithm.
+- 😄 Looking for an opportunity as a MERN Stack developer to work in a company where I can work on exciting technologies and grow as a web developer.
+- ⚡ Tech stacks I know are React, Javascript, Material-UI, CSS, HTML, Express JS, Node.js, MongoDB, Angular, Java, and Data Structures and Algorithms.
 
 - 💬 My Blogs <br/>
 *[Medium](https://avinashkumarsinha007.medium.com/)
